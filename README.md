@@ -1,7 +1,8 @@
 Thanks for visiting my GitHub account!!
 
 ## C++ Programming
-**C++** is a popular programming language. It is used to create computer programs and is one of the most used languages in game development.
+![C++](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4jXDasN0g6GDBJ5FRko2n-kddDn9W69S8XZKzHf-3qSH7c3AY1QJLxy6l5-74YD8Qf4A&usqp=CAU)
+ is a popular programming language. It is used to create computer programs and is one of the most used languages in game development.
 <details>
   <summary>See More..</summary>
 	
