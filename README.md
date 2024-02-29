@@ -53,6 +53,12 @@ Thanks for visiting my GitHub account!!
 ## Source Code (Download)
 [Click Here](https://mega.nz/folder/xDcB1LbZ#8jSPnxD7OGILZAQdQRmVUQ)
 
+## Required Software (Download)
+[Download](https://www.codeblocks.org/downloads/binaries/)
+
+### Downloading Process
+- Select codeblocks-20.03mingw-setup.exe
+- Click on FossHUB 
 
 ## Project Screenshot
 
